@@ -1,0 +1,6 @@
+{
+    "extensions": {
+        "GL_NV_command_list": "enable",
+        "GL_buffer_reference": "require"
+    }
+}
